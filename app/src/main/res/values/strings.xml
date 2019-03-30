@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AsteroidsGL</string>
+    <string name="menu">ASTEROIDS GL</string>
+    <string name="retry">press .fire. to retry</string>
+    <string name="start">press .fire. to start</string>
+
+
+    <integer name="star_count">100</integer>
+
+</resources>
